@@ -1,0 +1,1 @@
+# The file /document-scanner/document-scanner/src/ocr/__init__.py is intentionally left blank.
