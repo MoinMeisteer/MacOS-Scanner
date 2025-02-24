@@ -1,8 +1,8 @@
 pytesseract
 Pillow
-transformers
 watchdog
 pdf2image
 torch
 urllib3
 pyOpenSSL
+Pyqt5
